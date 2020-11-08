@@ -1,0 +1,4 @@
+﻿  UnitTest5.5.cpp
+D:\Student\lab5.5\lab5.5\lab5_5.cpp(31,26): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+D:\Student\lab5.5\UnitTest5.5\UnitTest5.5.cpp(18,16): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  UnitTest5.5.vcxproj -> D:\Student\lab5.5\Debug\UnitTest5.5.dll
